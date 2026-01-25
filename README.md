@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @thelinanguyen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Thelina (or Trâm) 🐰 Welcome to my GitHub profile! I'm passionate about technology and eager to contribute to innovative projects. Here's a bit about me:
+
+👩‍💻 Education: Currently pursuing a degree in Computing and Electrical Engineering at Tampere University, specializing in Software Development.
+
+🚀 Skills: Programming Languages: Python, SQL, C++, Matlab, Javascript, a bit about web development (HTML, CSS, Bootstrap, GUI Development: Node.JS, RESTful API.)
+Platforms: Linux, GIT, Tiger VNC, Visual Studio Code, QT Creator, Pycharm. 
+
+📫 Contact: Reach out to me at tram.nguyen@tuni.fi. I'm always open to networking and new opportunities. 🌐 LinkedIn: https://www.linkedin.com/in/thelinanguyen/
+
+Let's connect and create amazing technology solutions! 🚀🌟
 
 <!---
 thelinanguyen/thelinanguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
