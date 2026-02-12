@@ -7,7 +7,7 @@ Environments/Tools: Linux, GIT, Tiger VNC, Visual Studio Code, QT Creator, Pycha
 
 📫 Contact: Reach out to me at tram.nguyen@tuni.fi. I'm always open to networking and new opportunities. 🌐 LinkedIn: https://www.linkedin.com/in/thelinanguyen/
 
-Let's connect and create amazing technology solutions! 🚀🌟
+🚀🌟
 
 <!---
 thelinanguyen/thelinanguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
