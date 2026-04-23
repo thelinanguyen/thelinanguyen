@@ -2,9 +2,7 @@
 
 👩‍💻 Education: Currently pursuing a degree in Computing and Electrical Engineering at Tampere University, majoring in Software Development.
 
-🚀 Skills: Programming Languages: Python, SQL, C, C++, Matlab, a bit about web development (HTML, CSS, Bootstrap, GUI Development: Node.JS, RESTful API.)
-Environments/Tools: Linux, GIT, Visual Studio Code, QT Creator, Pycharm. 
-Currently learning more about robotics and embedded systems. 🤖⚡
+🚀 Hard Skills: (please checkout my repos for a more clearer view?)
 
 📫 Contact: Reach out to me at tram.nguyen@tuni.fi. I'm always open to networking and new opportunities. 🌐 LinkedIn: https://www.linkedin.com/in/thelinanguyen/
 
